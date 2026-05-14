@@ -257,7 +257,7 @@ python -m http.server 8000
 ```
 
 **Edit and deploy:**
-1. Modify `THE_ONE_-_Website.html` for website updates
+1. Modify `index.html` for website updates
 2. Update company information in this README
 3. Commit changes with clear messages
 4. Push to main branch for deployment
